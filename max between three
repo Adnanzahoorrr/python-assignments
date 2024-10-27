@@ -1,9 +1,141 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="NUm0JULllYYQQjbanu4X">
-    <mxGraphModel>
+    <mxGraphModel dx="1120" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="20" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="364.5" y="90" as="sourcePoint" />
+            <mxPoint x="365" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-3" value="&amp;nbsp;input no a b and c" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ikaJVx_P83JXEDSCIl5a-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="270" as="sourcePoint" />
+            <mxPoint x="365" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ikaJVx_P83JXEDSCIl5a-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ikaJVx_P83JXEDSCIl5a-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-7" value="if a &amp;gt;b" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-13" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="218" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-14" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="208" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ikaJVx_P83JXEDSCIl5a-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ikaJVx_P83JXEDSCIl5a-15" target="ikaJVx_P83JXEDSCIl5a-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-15" value="a&amp;gt;c" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ikaJVx_P83JXEDSCIl5a-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ikaJVx_P83JXEDSCIl5a-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-16" value="b&amp;gt;c" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ikaJVx_P83JXEDSCIl5a-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="45" y="621" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-19" value="print c" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="440" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-23" value="print a" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="470" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ikaJVx_P83JXEDSCIl5a-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="495" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-26" value="print c" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="470" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-33" value="stop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="ikaJVx_P83JXEDSCIl5a-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="620" as="sourcePoint" />
+            <mxPoint x="340" y="595" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-39" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="318" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="ikaJVx_P83JXEDSCIl5a-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="370" as="sourcePoint" />
+            <mxPoint x="740" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ikaJVx_P83JXEDSCIl5a-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-42" value="print b" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.95;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ikaJVx_P83JXEDSCIl5a-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="620" as="sourcePoint" />
+            <mxPoint x="670" y="575" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-45" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="338" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-46" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="398" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-47" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="428" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="ikaJVx_P83JXEDSCIl5a-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="490" as="sourcePoint" />
+            <mxPoint x="450" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ikaJVx_P83JXEDSCIl5a-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ikaJVx_P83JXEDSCIl5a-23" target="ikaJVx_P83JXEDSCIl5a-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
